@@ -1,6 +1,6 @@
 # investor_mobile_app_ui
 
-Block Transfer UI
+BlockTransfer UI
 
 ## Getting Started
 
